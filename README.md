@@ -19,7 +19,7 @@ collected can help them with their planning.
 The task was to undertake a statistical analysis of the data provided using SAS Enterprise guide and 
 produce a report for the property developer critically discussing the results of the analysis.
 
-The files included are:
-The original Excel data files
-The SAS file containing all the output
-The final report going over the analysis
+# The files included are:
+- Original Excel data files
+- SAS file containing all the output
+- Final report going over the analysis
